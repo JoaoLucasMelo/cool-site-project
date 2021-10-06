@@ -22,7 +22,6 @@
 
 .d-flex{
     display: flex;
-    flex-direction: row;
 }
 
 .pic-frame{
